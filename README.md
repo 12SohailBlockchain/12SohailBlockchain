@@ -39,7 +39,7 @@ Welcome to my GitHub profile! 🚀 I'm a Senior Blockchain & Software Solutions 
 ## 🔗 Featured Projects
 Here are some of my top blockchain projects:
 
-- **[DeFi Yield Aggregator](#)** – Built an automated yield optimizer for Ethereum & Polygon.
+- **[https://blockchain-portfolio-pi.vercel.app/?l=en](#)** – Built an automated yield optimizer for Ethereum & Polygon.
 - **[NFT Marketplace with Auction & Royalties](#)** – Developed an ERC-721 & ERC-1155 based NFT platform.
 - **[Smart Contract Security Toolkit](#)** – Created tools for vulnerability testing in Solidity.
 - **[Cross-Chain Token Bridge](#)** – Secure & scalable token bridge for EVM & Cosmos networks.
