@@ -1,4 +1,4 @@
-# 👨‍💻 Sohail Ahmed Laghari – Senior Blockchain & Software Solutions Architect  
+# 👨‍💻 Senior Blockchain & Software Solutions Architect  
 🌍 *Blockchain & Web3 | DeFi | NFTs | Smart Contracts | Cosmos SDK | Ethereum | Solana | Rust | Node.js*
 
 Welcome to my GitHub profile! 🚀 I'm a Senior Blockchain & Software Solutions Architect with expertise in **Solidity (EVM), Rust (Solana), Web3 integration (Web & Mobile), DeFi, DEX, NFTs, Helium IoT, Cosmos SDK, and NFT Marketplaces**.
