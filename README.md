@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Sohail Ahmed Laghari - Blockchain Developer
+🌟 Full Stack Ethereum Development | Cosmos SDK | Cardano Blockchain Development 🌟
+
+🚀 Welcome to my GitHub! This is where I showcase my projects, skills, and contributions in blockchain development.
