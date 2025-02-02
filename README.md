@@ -82,10 +82,10 @@ Here are some of my top blockchain projects:
 ## 🤝 Connect With Me
 💼 **Company**: Inaequo Solutions  
 📍 **Location**: Karachi, Pakistan  
-🔗 **Website**: [YourWebsite.com](#)  
-📧 **Email**: [YourEmail@gmail.com](#)  
+🔗 **Website**: [https://blockchain-portfolio-pi.vercel.app/?l=en](#)  
+📧 **Email**: [sohailahmedlaghari21@gmail.com](#)  
 🐦 **Twitter**: [@sohaila6834493](#)  
-💼 **LinkedIn**: [Sohail Ahmed](#)  
+💼 **LinkedIn**: [https://www.linkedin.com/in/sohail-ahmed-b40b66215/](#)  
 
 ---
 
